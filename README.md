@@ -1,20 +1,22 @@
-# 👋 Pedro Chaves — Digital Marketing Consultant
+# 📈 Portefólio — Consultoria em Marketing Digital
 
-🎯 Ajudo marcas a crescer com estratégias de social media orientadas a métricas e conversão.
+Olá! Sou **[Pedro Chaves]**, consultor de marketing digital com foco em **Social Media Strategy** e crescimento orientado a métricas.
+
+Trabalho com clientes reais, ajudando marcas a melhorar **alcance, engagement e posicionamento digital** no Instagram e LinkedIn.
 
 ## 🔧 Serviços
-- Estratégia de Social Media
-- Auditoria e otimização de conteúdo
+- Estratégia de redes sociais
+- Planeamento e otimização de conteúdo
 - Análise de métricas e relatórios
-- Consultoria para freelancers e PMEs
+- Consultoria para freelancers e pequenos negócios
 
-## 📊 Trabalhos em Social Media
-- Instagram: crescimento de engagement +32% em 3 meses
-- LinkedIn: aumento de impressões orgânicas +45%
-- Planeamento e execução de calendários editoriais
+## 📊 Trabalhos em Social Media (Cliente real)
+Os resultados apresentados referem-se a um **cliente real** (identidade anonimizada).
 
-➡️ Estudos de caso detalhados na pasta `social-media/`
+- Instagram: crescimento de engagement e alcance orgânico
+
+📂 Ver detalhes na pasta `social-media/`
 
 ## 📫 Contacto
-- Email: pedro.miguelchaves@icloud.com
-- LinkedIn: [link](https://www.linkedin.com/in/pedromiguelchaves/)
+📧 Email: pedro.miguel.chaves@icloud.com
+🔗 LinkedIn: [link](https://www.linkedin.com/in/pedromiguelchaves/)  
