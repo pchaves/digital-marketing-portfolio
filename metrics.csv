@@ -1,4 +1,3 @@
-date,followers,reach,engagement_rate
-2024-01-01,1200,3500,4.1
-2024-02-01,1450,4200,5.3
-2024-03-01,1800,6100,6.0
+date,views,reach,interactions_not_followers,interactions_followers
+2026-01-22,12838,6833,67,1%,32,9%
+2026-01-10,30256,1900,65%,35%
