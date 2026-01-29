@@ -1,0 +1,13 @@
+{
+  "name": "Pedro Chaves",
+  "role": "Digital Marketing Consultant / Freelance",
+  "skills": ["Social Media", "Analytics", "Content Strategy"],
+  "experience": [
+    {
+      "company": "Cantinho da Rosa Lda / João Narciso",
+      "role": "Digital Marketing Consultant",
+      "results": "Engagement +32% em 3 meses"
+    }
+  ],
+  "education": "Frequência no curso de Eng Informatica de Gestão"
+}
