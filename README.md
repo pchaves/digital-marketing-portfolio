@@ -1,4 +1,4 @@
-# 📈 Portefólio — Consultoria em Marketing Digital
+# 📈 Portfólio — Consultoria em Marketing Digital
 
 Olá! Sou **[Pedro Chaves]**, consultor de marketing digital com foco em **Social Media Strategy** e crescimento orientado a métricas.
 
